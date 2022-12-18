@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm amateur novice engineer.
+
+どうもtos-upです。C#から入りましたが最近全く書いていません。
+Nuxtが好きです。
+
+[![tos-up's GitHub stats](https://github-readme-stats.vercel.app/api?username=tos-up&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tos-up)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tos-up/tos-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
