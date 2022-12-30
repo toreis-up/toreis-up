@@ -2,13 +2,13 @@
 
 I'm amateur novice engineer.
 
-どうもtos-upです。C#から入りましたが最近全く書いていません。
+どうもtoreis(とれいす)です。C#から入りましたが最近全く書いていません。
 Nuxtが好きです。
 
-[![tos-up's GitHub stats](https://github-readme-stats.vercel.app/api?username=tos-up&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![toreis-up's GitHub stats](https://github-readme-stats.vercel.app/api?username=toreis-up&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tos-up)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tos-up&theme=dracula&column=7
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toreis-up)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=toreis-up&theme=dracula&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **tos-up/tos-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
