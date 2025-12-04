@@ -4,9 +4,6 @@ I'm amateur novice engineer.
 
 どうもtoreis(とれいす)です。C#から入りましたが最近全く書いていません。
 Nuxtが好きです。
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=toreis-up&theme=dracula&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **tos-up/tos-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
